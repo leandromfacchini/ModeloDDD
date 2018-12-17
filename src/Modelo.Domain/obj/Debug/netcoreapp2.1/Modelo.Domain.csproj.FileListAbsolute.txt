@@ -1,0 +1,6 @@
+C:\Users\Leandro\source\repos\ModeloDDD\src\Modelo.Domain\bin\Debug\netcoreapp2.1\Modelo.Domain.deps.json
+C:\Users\Leandro\source\repos\ModeloDDD\src\Modelo.Domain\bin\Debug\netcoreapp2.1\Modelo.Domain.dll
+C:\Users\Leandro\source\repos\ModeloDDD\src\Modelo.Domain\obj\Debug\netcoreapp2.1\Modelo.Domain.csprojAssemblyReference.cache
+C:\Users\Leandro\source\repos\ModeloDDD\src\Modelo.Domain\obj\Debug\netcoreapp2.1\Modelo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\ModeloDDD\src\Modelo.Domain\obj\Debug\netcoreapp2.1\Modelo.Domain.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\ModeloDDD\src\Modelo.Domain\obj\Debug\netcoreapp2.1\Modelo.Domain.AssemblyInfo.cs
