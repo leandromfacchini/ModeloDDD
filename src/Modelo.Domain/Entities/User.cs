@@ -8,6 +8,6 @@ namespace Modelo.Domain.Entities
     {
         public string Name { get; set; }
         public string BirthDate { get; set; }
-        public string Cfp { get; set; }
+        public string Cpf { get; set; }
     }
 }
